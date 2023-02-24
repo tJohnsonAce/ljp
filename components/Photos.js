@@ -7,41 +7,9 @@ export const Background = [
 
 export const Wedding = [
   {
-    src: 'public/Wedding1.jpg',
-    caption: 'wedding photo 1'
+    image: 'https://raw.githubusercontent.com/tJohnsonAce/ljp/main/public/Wedding1.jpg'
   },
-  {
-    src: '/Wedding3.jpg',
-    caption: 'wedding photo 3'
-  },
-  {
-    src: '/Wedding4.jpg',
-    caption: 'wedding photo 4'
-  },
-  {
-    src: '/Wedding5.jpg',
-    caption: 'wedding photo 5'
-  },
-  {
-    src: '/Wedding6.jpg',
-    caption: 'wedding photo 6'
-  },
-  {
-    src: '/Wedding8.jpg',
-    caption: 'wedding photo 8'
-  },
-  {
-    src: '/Wedding9.jpg',
-    caption: 'wedding photo 9'
-  },
-  {
-    src: '/Wedding10.jpg',
-    caption: 'wedding photo 10'
-  },
-  {
-    src: '/Wedding11.jpg',
-    caption: 'wedding photo 11'
-  },
+
 ]
 
 export const Engagement = [

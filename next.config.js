@@ -8,7 +8,8 @@ module.exports = {
     domains: [
       'images.unsplash.com',
       'media.istockphoto.com',
-      'attachment.outlook.live.net'
+      'attachment.outlook.live.net',
+      'raw.githubusercontent.com'
     ]
   }
 }
