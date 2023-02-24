@@ -2,13 +2,26 @@
 @tailwind components;
 @tailwind utilities;
 
-import 
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Wire+One&display=swap');
 
 html {
   scroll-behavior: smooth;
-  font-family: 'Raleway', sans-serif;
 }
 
 .custom-img {
   background-image: url('https://attachment.outlook.live.net/owa/MSA%3AtJohnsonAce%40outlook.com/service.svc/s/GetAttachmentThumbnail?id=AQMkADAwATNiZmYAZC0zNTcwLTllNWUtMDACLTAwCgBGAAADG2GXoQgbI0KVsl7iw320UwcAE%2BRCfDaHoUaHSfXhkwC5ZwAAAgEMAAAAE%2BRCfDaHoUaHSfXhkwC5ZwAB%2FaE0%2FwAAAAESABAAgM90GhJ4BE%2BeNodq0AEjBA%3D%3D&thumbnailType=2&isc=1&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IkQ4OThGN0RDMjk2ODQ1MDk1RUUwREZGQ0MzODBBOTM5NjUwNDNFNjQiLCJ0eXAiOiJKV1QiLCJ4NXQiOiIySmozM0Nsb1JRbGU0Tl84dzRDcE9XVUVQbVEifQ.eyJvcmlnaW4iOiJodHRwczovL291dGxvb2subGl2ZS5jb20iLCJ1YyI6Ijk4Mjg0NzE4MTk1MTQ2MGQ4NDIxZjVlZjRjM2I3YTg3IiwidmVyIjoiRXhjaGFuZ2UuQ2FsbGJhY2suVjEiLCJhcHBjdHhzZW5kZXIiOiJPd2FEb3dubG9hZEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEiLCJpc3NyaW5nIjoiV1ciLCJhcHBjdHgiOiJ7XCJtc2V4Y2hwcm90XCI6XCJvd2FcIixcInB1aWRcIjpcIjEwNTU1MTkxNzQzMzYwOTRcIixcInNjb3BlXCI6XCJPd2FEb3dubG9hZFwiLFwib2lkXCI6XCIwMDAzYmZmZC0zNTcwLTllNWUtMDAwMC0wMDAwMDAwMDAwMDBcIixcInByaW1hcnlzaWRcIjpcIlMtMS0yODI3LTI0NTc1Ny04OTY1NzMwMjJcIn0iLCJuYmYiOjE2NzU0NTcwNTAsImV4cCI6MTY3NTQ1NzY1MCwiaXNzIjoiMDAwMDAwMDItMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwQDg0ZGY5ZTdmLWU5ZjYtNDBhZi1iNDM1LWFhYWFhYWFhYWFhYSIsImF1ZCI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9hdHRhY2htZW50Lm91dGxvb2subGl2ZS5uZXRAODRkZjllN2YtZTlmNi00MGFmLWI0MzUtYWFhYWFhYWFhYWFhIiwiaGFwcCI6Im93YSJ9.sXxNThDMLZG7Xm6iIoakIQalGs1ztNlUNskHDazIVlU1yqKvvL5j0RCY3qJ9AtQ7Y6G-_l2KX7MiK7bF-zInzDilDQaV76iB1dH419zqsFgNfHd6neNkYjOw7pKy621DoLA2h19rU9Vj-DUZd-GYsM_9ph-TIhy8U726_vm1oPs2sWE2bI_GoVvTQAEWiML5XqMOc4k0Cv0HWqzVqCM8ogfvlnNIt_uLyMlkhdd4QGnO08yOASVN2jeDS6s4A4fDqSdvQb4zxGsGKwfkVPSGTa02cmy8PX5vqFM5Kvk44l0uwnwgxJGQpD2xQ2sXdn_42KjHkrO-eKPktRbRLctKZw&X-OWA-CANARY=nIrra4NI00-VgOO2ugy1akAbVP4nBtsYIAOi4c3ZQY-B2lz9HLtC5E_goHtBuEbqrs2rcie11Vc.&owa=outlook.live.com&scriptVer=20230127001.10&animation=true')
 }
+
+.script {
+  font-family: "Edwardian Script ITC", cursive;
+}
+
+.scripts {
+  font-family: "Wire One", sans-serif;
+}
+
+
+
+
+

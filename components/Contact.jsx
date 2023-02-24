@@ -2,12 +2,13 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div className='m-auto p-4 h-screen bg-gradient-to-b from-violet-200 to-slate-400'>
-      <h1 className='text-2xl font-bold text-center p-4'>
+    <div className='m-auto p-4 h-screen bg-gradient-to-b from-violet-200 via-violet-200 to-slate-400'>
+      <h1 className='text-2xl text-center p-4'>
         Let&apos;s work together
       </h1>
 
       <form 
+        id='contact-form'
         action='https://getform.io/f/d61dd241-3f56-4aaa-ad58-fecf2066f7b0'
         method='POST'
         className='max-w-[600px] m-auto'>

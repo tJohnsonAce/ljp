@@ -5,7 +5,7 @@ import React from 'react'
 const contact = () => {
   return (
     <div>
-      <Hero heading='Contact' message='Submit the form below to get in touch for details.'/>
+      <Hero heading='Contact' message='Complete the form below to get in touch for details.'/>
       <Contact />
     </div>
   )

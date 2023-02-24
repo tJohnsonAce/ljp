@@ -7,7 +7,8 @@ module.exports = {
   images: {
     domains: [
       'images.unsplash.com',
-      'media.istockphoto.com'
+      'media.istockphoto.com',
+      'attachment.outlook.live.net'
     ]
   }
 }
