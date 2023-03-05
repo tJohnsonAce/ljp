@@ -21,7 +21,10 @@ html {
   font-family: "Wire One", sans-serif;
 }
 
+body {
+  overflow-x: hidden;
+}
 
-
-
-
+.sm:hidden {
+  display: none !important;
+}

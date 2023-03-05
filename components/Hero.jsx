@@ -2,9 +2,9 @@ import React from 'react';
 import Link from 'next/link'
 import { Background } from 'components/Photos.js'
 
-const Hero = ({heading, message}) => {
+const bgImage = Background[0].src
 
-  const bgImage = 'https://raw.githubusercontent.com/tJohnsonAce/ljp/main/public/ljpBackground.jpg'
+const Hero = ({heading, message}) => {
 
   return (
     <div 

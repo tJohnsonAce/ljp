@@ -1,6 +1,6 @@
 export const Background = [
   {
-    src: 'C:/Users/Trevor/repos/ljp/public/ljpBackground.jpg',
+    src: '/ljpBackground.jpg',
     caption: 'background photo'
   }
 ]
